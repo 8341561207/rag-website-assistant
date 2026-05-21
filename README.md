@@ -1,3 +1,9 @@
+• Developed Retrieval-Augmented Generation (RAG) application using LangChain, ChromaDB, and Hugging Face
+embeddings.
+• Implemented semantic search, document chunking, embedding generation, and LLM response orchestration.
+• Built interactive Streamlit interface supporting real-time contextual question answering
+
+
 # Langchain : Framework
 # vector database: ChormaDB
 # Huggingface
